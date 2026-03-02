@@ -1,0 +1,5 @@
+/build/
+/dist/
+
+# Ignorar un archivo específico
+/nbproject/private/
